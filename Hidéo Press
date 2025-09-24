@@ -6,7 +6,6 @@
 	</head>
 	<body>
 		<h1>Test</h1>
-		<p>Test</p>
-
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non ipsum lorem. Nam id convallis augue. Proin diam velit, fringilla vitae arcu in, euismod fermentum lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed accumsan vel ex vitae dignissim. Donec dictum, justo a euismod.</p>
 	</body>
 </html>
