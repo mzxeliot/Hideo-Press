@@ -1,4 +1,4 @@
-<!doctype>
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Fabrice</title>
@@ -7,5 +7,6 @@
 	<body>
 		<h1>Test</h1>
 		<p>Test</p>
+
 	</body>
 </html>
